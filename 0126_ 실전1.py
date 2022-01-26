@@ -1,6 +1,6 @@
 x = int(input())
 
-d = [0] * 30001
+d = [0] * 30000
 
 # 다이나믹 프로그래밍(Dynamic Programming) 진행(보텀업)
 for i in range(2, x+1):
